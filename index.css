@@ -2357,6 +2357,7 @@ textarea.form-control {
 }
 
 .btn {
+    color: #fff;
     display: inline-block;
     font-weight: 400;
     text-align: center;
@@ -3996,6 +3997,7 @@ input[type=submit].btn-block {
 }
 
 .nav {
+    color: #007bff;
     display: flex;
     flex-wrap: wrap;
     padding-left: 0;
